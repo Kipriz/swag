@@ -1,4 +1,4 @@
-module github.com/swaggo/swag
+module github.com/Kipriz/swag
 
 require (
 	github.com/PuerkitoBio/purell v1.1.1 // indirect
